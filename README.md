@@ -4,6 +4,8 @@
 
 (C)Tsubasa Kato - Inspire Search Corp. & Curioforce Corp. 2026/5/24
 
+Made with Google AI Studio.
+
 We are hoping that this will spark interest in the educational community and provide a sample to build custom apps to teach children and students about quantum.
 Feel free to write to me at: tsubasa@inspiresearch.io
 
