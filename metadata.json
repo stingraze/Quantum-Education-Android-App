@@ -1,0 +1,6 @@
+{
+  "name": "Quantum Leap",
+  "description": "An interactive, visual quantum physics playground that teaches quantum entanglement and quantum teleportation to kids, high schoolers, and post docs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
